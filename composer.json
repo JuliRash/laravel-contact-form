@@ -1,0 +1,19 @@
+{
+    "name": "jembe/greetr",
+    "description": "Greetr - A simple Laravel Package",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "julius idowu i.o",
+            "email": "julipels@yahoo.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Julius\\Greetr\\": "src/"
+        }
+    },
+    "require": {}
+}
